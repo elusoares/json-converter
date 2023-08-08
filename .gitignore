@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Tests coverage
+coverage
+
+.esbuild
+
+.DS_Store

@@ -11,3 +11,5 @@ coverage
 .esbuild
 
 .DS_Store
+
+src/output
